@@ -2,19 +2,42 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=8706E1FF&center=true&vCenter=true&random=false&width=435&lines=Hey+I'm+Sandeepa+Sineth;Don't+Forget+To+Follow+Me...)](https://git.io/typing-svg)
 -
+  -
+    -
+      -
+        -
+          -
+            -
+          -
+        -
+      -
+    -
+  -
 -
--
--
-<a href="https://github.com/Sandeepasineth/github-readme-stats" style="display: inline-block;">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Sandeepasineth" />
-</a>
-<a href="https://github.com/Sandeepasineth/convoychat" style="display: inline-block;">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandeepasineth&layout=compact&langs_count=8&card_width=320" />
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Sandeepasineth/github-readme-stats">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Sandeepasineth" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Sandeepasineth/convoychat">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandeepasineth&layout=compact&langs_count=8&card_width=320" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 -
   -
     -
+      -
+        -
+          -
+            -
+          -
+        -
       -
     -
   -
