@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**Sandeepasineth/Sandeepasineth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=8706E1FF&center=true&vCenter=true&random=false&width=435&lines=Hey+I'm+Sandeepa+Sineth;Don't+Forget+To+Follow+Me...)](https://git.io/typing-svg)
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
