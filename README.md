@@ -1,11 +1,7 @@
 ## Hi there 👋
-<table>
-  <tr>
-    <td align="center">
-      [![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=FF0A0AFF&center=true&vCenter=true&random=false&width=435&lines=Hey+I'm+Sandeepa+Sineth+🙃;Welcome+to+My+Profile+😉;Don't+Forget+To+Follow+Me...+😘)](https://git.io/typing-svg)
-    </td>
-  </tr>
-</table>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=FF0A0AFF&center=true&vCenter=true&random=false&width=435&lines=Hey+I'm+Sandeepa+Sineth+🙃;Welcome+to+My+Profile+😉;Don't+Forget+To+Follow+Me...+😘)](https://git.io/typing-svg)
+ 
 
 
 
