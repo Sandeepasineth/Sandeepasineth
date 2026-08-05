@@ -15,7 +15,7 @@
 
 ### 🖥️ `~/system_info`
 
-```bash
+__bash
 > whoami
 Sandeepa Sineth
 
@@ -33,7 +33,7 @@ Looking to collaborate on Data Science & ML projects 🤝
 
 > access_level
 [■■■■■■■■■□] 90% Curious Hacker Mode Activated
-
+​```
 ---
 
 ### ⚡ `~/tech_stack`
