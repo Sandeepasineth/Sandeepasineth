@@ -50,7 +50,7 @@ Looking to collaborate on Data Science & ML projects 🤝
 </p>
 
 ---
-
+'''
 ### 📊 `~/stats.exe`
 
 <p align="center">
@@ -69,7 +69,7 @@ Looking to collaborate on Data Science & ML projects 🤝
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sandeepasineth&theme=onedark&no-frame=true&no-bg=false&margin-w=15&row=1" />
 </p>
-
+'''
 ---
 
 ### 📡 `~/contact_me`
