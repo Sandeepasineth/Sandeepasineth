@@ -54,12 +54,12 @@ Looking to collaborate on Data Science & ML projects 🤝
 ### 📊 `~/stats.exe`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandeepasineth&show_icons=true&theme=matrix&hide_border=true&icon_color=00FF00&title_color=00FF00&text_color=00FF00&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeepasineth&theme=matrix&hide_border=true&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandeepasineth&show_icons=true&theme=dark&hide_border=true&icon_color=00FF00&title_color=00FF00&text_color=00FF00&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeepasineth&theme=dark&hide_border=true&background=0d1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepasineth&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=00FF00" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeepasineth&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=00FF00" width="60%" />
 </p>
 
 ---
@@ -67,7 +67,7 @@ Looking to collaborate on Data Science & ML projects 🤝
 ### 🏆 `~/trophies`
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sandeepasineth&theme=matrix&no-frame=true&no-bg=true&margin-w=15&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sandeepasineth&theme=onedark&no-frame=true&no-bg=false&margin-w=15&row=1" />
 </p>
 
 ---
